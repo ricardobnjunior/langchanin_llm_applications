@@ -1,0 +1,5 @@
+python-dotenv
+langchain
+openai
+jupyter
+huggingface_hub
