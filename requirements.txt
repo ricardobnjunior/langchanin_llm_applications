@@ -3,3 +3,7 @@ langchain
 openai
 jupyter
 huggingface_hub
+wikipedia
+numexpr
+langchain_experimental
+google-search-results
