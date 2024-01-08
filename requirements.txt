@@ -7,3 +7,5 @@ wikipedia
 numexpr
 langchain_experimental
 google-search-results
+chromadb
+tiktoken

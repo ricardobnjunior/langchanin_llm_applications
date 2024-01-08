@@ -23,7 +23,6 @@ Before you begin, ensure you have the following:
 
 The repository is structured into four key sections:
 
-
 ### 1. Testing with Prompts
 
 Explore various prompts and compare the responses generated using both the OpenAI and Google Bard integrations.
@@ -31,6 +30,15 @@ Explore various prompts and compare the responses generated using both the OpenA
 ### 2. Module for Fetching Updated Information
 
 Most current Large Language Models (LLMs) lack up-to-date information, as they were trained on historical data (e.g., GPT was trained on data up to September 2021). This section introduces a module that connects the LLM to various content mechanisms like Wikipedia and Google Search to fetch and incorporate the latest information.
+
+### 3. OpenAI and LangChain Powered Chatbot Module
+
+This module is dedicated to the development of an advanced chatbot using the OpenAI library along with LangChain. The chatbot is designed to access and analyze the message history, allowing it to provide more contextualized and accurate responses. This feature significantly improves interaction and the relevance of the chatbot's responses, making conversations more natural and informative.
+
+### 4. Advanced LLM Development and Learning Module
+
+This module focuses on taking the development and learning with Large Language Models (LLMs) to the next level by implementing a question and answer approach on customized texts. This method allows for deeper analysis and response to specific queries, providing a powerful tool for exploring and interacting with large datasets or literature more effectively and meaningfully. It's an excellent way to deepen the understanding and practical application of LLMs in real-world scenarios.
+
 
 ## Contributing
 
